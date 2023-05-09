@@ -143,7 +143,9 @@ function buscoInterseccion(array1, array2) {
 
 //console.log(buscoInterseccion([1,2,3,4],[3]))
 
-/* git add .
+/* 
+npm test 09
+git add .
 git commit -m "Practica 8.5"
 git push 
  */
