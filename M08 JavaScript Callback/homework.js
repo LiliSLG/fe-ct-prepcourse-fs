@@ -84,10 +84,6 @@ function filter(arrayOfStrings) {
    return arreglosA;
 }
 
-/* git add
-git commit
-git push 
- */
 
 /* var myStrings = ["uno", "dos", "tres", "ahora"];
 console.log (myStrings);
@@ -95,6 +91,12 @@ console.log (myStrings[2]);
 console.log (myStrings[2].charAt(2));
 console.log (myStrings[2][2]);
  */
+
+/* git add .
+git commit -m "Practica 8.5"
+git push 
+ */
+
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
